@@ -1,5 +1,5 @@
 body { 
-  background: url("../images/bg.jpg");
+  background: url("http://beautifypress.netne.net/c/images/bg.jpg");
   position: relative;
   text-align: center;
   
@@ -272,7 +272,7 @@ font-family:"Trebuchet MS";
 color:#576679; 
 font-size:13px; 
 text-decoration:none; 
-background:url(../images/icon-circle.png) no-repeat; 
+background:url("http://beautifypress.netne.net/c/images/icon-circle.png") no-repeat; 
 padding-left:25px;
 }
 
